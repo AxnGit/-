@@ -7,4 +7,4 @@
         }
         String string = stringBuffer.toString();
         int i = Integer.parseInt(string);
-         System.out.println("OK");
+         System.out.println(i);
